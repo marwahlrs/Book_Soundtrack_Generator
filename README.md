@@ -8,4 +8,5 @@ You’ll need your own API keys for:
 - Google Books API
 - Gemini
 - Spotify API
+
 Input your API keys in the notebook to get started.
